@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3ed006/jc/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷第十一述用本草藥性味合則成毒未必即殺人即病也皆經久乃害耳唯見朝食至暮無害便謂書記非實甚可哀倉公述曰味合則成毒毒合則成藥未必即殺人及即病也皆經久乃害耳堇汁味甘寒無毒主馬毒瘡搗汁洗之並服之堇菜也倉公對黃帝曰大豆多食令人身重丹砂一名鎮粉燒硃砂作水銀上黑煙名也金牙一名黃石牙薯蕷一名土荼根一名茅荼根牛膝一名牛唇丹參一名逐馬人病腰痛服之則能起走逐馬故以名之天名精一名天精一名天無青酸漿一名苦薝子薺苨一名鹿隱忍根名也水蓱水中大馬蓱一名馬菜一名馬葉蝦蟆一名去甫一名苦蠪一名仇道蓬虆一名大莓礪石一名磨刀石牡蒙一名王孫涉釐水中粗苔也麥門冬垣衣為使防葵多服令人迷惑恍惚如狂
+  hash: sha256:51508cfc1939ea3612105df8a7c0a489ce3009c6a25b8cf9ce47fe959fbcdeab
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed006_jc_011-d13.h1s1}
+  - {type: 'tls:div-start', offset: 4, content: '', id: KR3ed006_jc_011-d13d2, level: 2, head_text: 述用本草藥性}
+  - {type: 'tls:head', offset: 4, content: '', id: KR3ed006_jc_011-d13.d2.h1s1}
+  - {type: 'tls:div-end', offset: 277, content: '', id: KR3ed006_jc_011-d13d2}
+metadata:
+  title: 小品方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed006.xml
+hash: sha256:a81a1fe548f1cd6cc1c5e80470617968b3233da266dc57653f0ff0fefeefdcf3

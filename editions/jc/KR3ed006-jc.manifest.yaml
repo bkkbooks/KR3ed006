@@ -1,0 +1,1018 @@
+canonical_identifier: bkk:krp/KR3ed006/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed006/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 小品方
+  identifiers:
+    krp: KR3ed006
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04580
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed006.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed006_000-jc.yaml, hash: 'sha256:fb2c32cd8d52d07f77f361ac84b7e2255ff62cf07a6e76ce635f92ad9c49bf3c'}
+  - {seq: 1, filename: KR3ed006_001-jc.yaml, hash: 'sha256:c9d0e333d3b76bcabd8051b316601edbaa28486792cebffa6c638f91179e8276'}
+  - {seq: 2, filename: KR3ed006_002-jc.yaml, hash: 'sha256:acb4bb303fa82ac1374febf3ee12bf1a69e488821abe0ba2756895a7f82b6c11'}
+  - {seq: 3, filename: KR3ed006_003-jc.yaml, hash: 'sha256:818eeb89b134fa05a7d574c9e28ddfba28f6d2cfca72c898843d0e5212aa4fd2'}
+  - {seq: 4, filename: KR3ed006_004-jc.yaml, hash: 'sha256:2f3fe54d54f3c019f1105c9e13eb0eebd58adf8028e535ec60800b86f2a3edc9'}
+  - {seq: 5, filename: KR3ed006_005-jc.yaml, hash: 'sha256:2a68f45e16c2ee52fbce6098d6d82d78967fdda50f79c739ca2688f01452decc'}
+  - {seq: 6, filename: KR3ed006_006-jc.yaml, hash: 'sha256:b7feecaca10183872e161be639b6382410192ec9ceb29452d6b9a76220e21dde'}
+  - {seq: 7, filename: KR3ed006_007-jc.yaml, hash: 'sha256:ea446d60f87121b4f8a65045094a7c34c833b3b388808ffd8cb18dd4522a67a8'}
+  - {seq: 8, filename: KR3ed006_008-jc.yaml, hash: 'sha256:265e9a8a8cc9f5551ff1f2a18e9aff8e2c8328423a1f359071789e6263f02835'}
+  - {seq: 9, filename: KR3ed006_009-jc.yaml, hash: 'sha256:a21f0bf0292f3c6babe22ee91a16819d8d99233a22981a63ae1600fdaf914e2c'}
+  - {seq: 10, filename: KR3ed006_010-jc.yaml, hash: 'sha256:3c69762c2f9c28d905b2e813eeddc1c3d02a66ad284920768117a7291b1cc185'}
+  - {seq: 11, filename: KR3ed006_011-jc.yaml, hash: 'sha256:a81a1fe548f1cd6cc1c5e80470617968b3233da266dc57653f0ff0fefeefdcf3'}
+  - {seq: 12, filename: KR3ed006_012-jc.yaml, hash: 'sha256:c260f5a00971b3eb98286f0a7bd1909104bfdbb5ca11eadca5b3a742a9754029'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed006_000-jc.markers.yaml, hash: 'sha256:089ba4742dae25d5f23936208ad1b919f72397364739c6e5d29946a1fdc86a8c'}
+  - {seq: 1, role: markers, filename: assets/KR3ed006_001-jc.markers.yaml, hash: 'sha256:da34572d0cf8873321ec365baa71e7d89d1b1d0b7c0ca327bfd2e833e87cef9d'}
+  - {seq: 2, role: markers, filename: assets/KR3ed006_002-jc.markers.yaml, hash: 'sha256:1c33e969757ddff0788f7b77d882545e678adb582c89bffb3c87facebac245c7'}
+  - {seq: 3, role: markers, filename: assets/KR3ed006_003-jc.markers.yaml, hash: 'sha256:ffce9da9eb9913a81b2dd9819e62e2684f5ff38a00ac8bc1657dcf1a2875a87d'}
+  - {seq: 4, role: markers, filename: assets/KR3ed006_004-jc.markers.yaml, hash: 'sha256:a48bb0ce519bd34bf22888cff1518176498f80960334797c34aef99fc0d2f587'}
+  - {seq: 5, role: markers, filename: assets/KR3ed006_005-jc.markers.yaml, hash: 'sha256:c39e31b03d2966d84d6b4a09b94423706d3ea2d2f8d74be83c7ba3057318fda1'}
+  - {seq: 6, role: markers, filename: assets/KR3ed006_006-jc.markers.yaml, hash: 'sha256:8ab4ffc096e0c7044a6ea4f6fa378a1f2806dd9e3b1773423e3bb9980d8dde01'}
+  - {seq: 7, role: markers, filename: assets/KR3ed006_007-jc.markers.yaml, hash: 'sha256:1eb8dda8ee44575031183c7d27d2bd99aa348a3b329391272e5ccdbd95981555'}
+  - {seq: 8, role: markers, filename: assets/KR3ed006_008-jc.markers.yaml, hash: 'sha256:e7351df7e3b032c5dcbc16eb3228bfcceb9154830de21be7e1cb626d733f0f52'}
+  - {seq: 9, role: markers, filename: assets/KR3ed006_009-jc.markers.yaml, hash: 'sha256:2fc11cb52e835e5bc67f1fc37bcb4e146a0b0160cbd3117493f25ea81a573f7f'}
+  - {seq: 10, role: markers, filename: assets/KR3ed006_010-jc.markers.yaml, hash: 'sha256:31aba2f7747dbe8e1c660439b4ed9689395c3b934d5dbe29c3878b2e59474f25'}
+  - {seq: 11, role: markers, filename: assets/KR3ed006_011-jc.markers.yaml, hash: 'sha256:1e01afd3a86adef5abdda3107624046becba8adf6135259829a73ac11bd06850'}
+  - {seq: 12, role: markers, filename: assets/KR3ed006_012-jc.markers.yaml, hash: 'sha256:b8b569f9433ca10e922f8d0f7d08e2c2db22c47df79aeb9f301c51d81c046b85'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed006_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 1334
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 9474
+  label: 卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3d2
+    span:
+    - body
+    - 3
+    - 1570
+  label: 述增損舊方用藥犯禁決
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3d3
+    span:
+    - body
+    - 1570
+    - 2078
+  label: 述舊方合藥法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3d4
+    span:
+    - body
+    - 2078
+    - 3592
+  label: 述看方及逆合備急藥決
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3d5
+    span:
+    - body
+    - 3592
+    - 3699
+  label: 治胸痹諸方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3d6
+    span:
+    - body
+    - 3699
+    - 4658
+  label: 治胸脅痰冷氣滿諸方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3d7
+    span:
+    - body
+    - 4658
+    - 6416
+  label: 治心痛腹脹滿冷痛諸方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3d8
+    span:
+    - body
+    - 6416
+    - 6890
+  label: 治下利諸方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3d9
+    span:
+    - body
+    - 6890
+    - 7393
+  label: 治咳嗽上氣諸氣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3d10
+    span:
+    - body
+    - 7393
+    - 8284
+  label: 治氣逆如奔豚狀並諸湯方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed006_jc_001-d3d11
+    span:
+    - body
+    - 8284
+    - 9474
+  label: 治虛滿水腫諸方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed006_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 2331
+  label: 卷第二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed006_jc_002-d4d18
+    span:
+    - body
+    - 64
+    - 1486
+  label: 治頭面風論雜風狀諸方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed006_jc_002-d4d19
+    span:
+    - body
+    - 1486
+    - 1652
+  label: 治喉痛喉痹諸方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed006_jc_002-d4d20
+    span:
+    - body
+    - 1652
+    - 1661
+  label: 治暴厥似風諸方待考
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed006_jc_002-d4d21
+    span:
+    - body
+    - 1661
+    - 1944
+  label: 治中風喑癔不隨痛腫諸方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed006_jc_002-d4d22
+    span:
+    - body
+    - 1944
+    - 2160
+  label: 治狂妄噤痙諸方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed006_jc_002-d4d23
+    span:
+    - body
+    - 2160
+    - 2331
+  label: 治腳弱諸方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed006_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 2964
+  label: 卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed006_jc_003-d5d16
+    span:
+    - body
+    - 50
+    - 1506
+  label: 治渴利諸方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed006_jc_003-d5d17
+    span:
+    - body
+    - 1506
+    - 2341
+  label: 治虛勞諸方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed006_jc_003-d5d18
+    span:
+    - body
+    - 2341
+    - 2632
+  label: 治夢泄諸失精眾方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed006_jc_003-d5d19
+    span:
+    - body
+    - 2632
+    - 2801
+  label: 治多汗方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed006_jc_003-d5d20
+    span:
+    - body
+    - 2801
+    - 2964
+  label: 治百病後虛煩擾不得眠諸方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed006_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5768
+  label: 卷第四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed006_jc_004-d6d18
+    span:
+    - body
+    - 53
+    - 2196
+  label: 治霍亂諸方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed006_jc_004-d6d19
+    span:
+    - body
+    - 2196
+    - 2643
+  label: 治中惡諸方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed006_jc_004-d6d20
+    span:
+    - body
+    - 2643
+    - 2990
+  label: 治食毒諸方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed006_jc_004-d6d21
+    span:
+    - body
+    - 2990
+    - 4060
+  label: 治中蠱毒諸方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed006_jc_004-d6d22
+    span:
+    - body
+    - 4060
+    - 4752
+  label: 治吐下血鼻衄尿血諸方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed006_jc_004-d6d23
+    span:
+    - body
+    - 4752
+    - 5768
+  label: 治發黃患淋諸方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed006_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 2071
+  label: 卷第五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ed006_jc_005-d7d24
+    span:
+    - body
+    - 76
+    - 396
+  label: 治下利諸方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed006_jc_005-d7d25
+    span:
+    - body
+    - 396
+    - 403
+  label: 治咳嗽諸方待考
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed006_jc_005-d7d26
+    span:
+    - body
+    - 403
+    - 498
+  label: 治上氣如奔豚諸方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed006_jc_005-d7d27
+    span:
+    - body
+    - 498
+    - 918
+  label: 治心腹胸脅中病諸方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed006_jc_005-d7d28
+    span:
+    - body
+    - 918
+    - 1184
+  label: 治虛補養腎虛腰疼諸方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed006_jc_005-d7d29
+    span:
+    - body
+    - 1184
+    - 1427
+  label: 治渴利諸方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed006_jc_005-d7d30
+    span:
+    - body
+    - 1427
+    - 1703
+  label: 治風諸方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed006_jc_005-d7d31
+    span:
+    - body
+    - 1703
+    - 2071
+  label: 治邪狂顛諸方
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed006_jc_006-d8.h1s1
+    span:
+    - body
+    - 0
+    - 5031
+  label: 卷第六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ed006_jc_006-d8d12
+    span:
+    - body
+    - 39
+    - 3581
+  label: 治冬月傷寒諸方
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed006_jc_006-d8d13
+    span:
+    - body
+    - 3581
+    - 4543
+  label: 治春夏溫熱病諸方
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed006_jc_006-d8d14
+    span:
+    - body
+    - 4543
+    - 5031
+  label: 治秋月中冷瘧病諸方
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed006_jc_007-d9.h1s1
+    span:
+    - body
+    - 0
+    - 4746
+  label: 卷第七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ed006_jc_007-d9d16
+    span:
+    - body
+    - 53
+    - 538
+  label: 治女子眾病諸方
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed006_jc_007-d9d17
+    span:
+    - body
+    - 538
+    - 547
+  label: 治婦人無兒諸方待考
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed006_jc_007-d9d18
+    span:
+    - body
+    - 547
+    - 3578
+  label: 治妊胎諸方
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed006_jc_007-d9d19
+    span:
+    - body
+    - 3578
+    - 4498
+  label: 治產後諸方
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed006_jc_007-d9d20
+    span:
+    - body
+    - 4498
+    - 4746
+  label: 治嫗人諸血崩滯下宿疾諸方
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed006_jc_008-d10.h1s1
+    span:
+    - body
+    - 0
+    - 2930
+  label: 卷第八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ed006_jc_008-d10d12
+    span:
+    - body
+    - 49
+    - 1632
+  label: 治少小百病諸湯方
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed006_jc_008-d10d13
+    span:
+    - body
+    - 1632
+    - 2184
+  label: 治少小疾病諸丸散眾方
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed006_jc_008-d10d14
+    span:
+    - body
+    - 2184
+    - 2930
+  label: 治少小百病薄㩉洗浴膏散針灸諸方法
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed006_jc_009-d11.h1s1
+    span:
+    - body
+    - 0
+    - 5196
+  label: 卷第九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ed006_jc_009-d11d12
+    span:
+    - body
+    - 37
+    - 624
+  label: 治服寒食散方
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed006_jc_009-d11d13
+    span:
+    - body
+    - 624
+    - 5196
+  label: 治寒食散發動諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12.h1s1
+    span:
+    - body
+    - 0
+    - 11639
+  label: 卷第十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d74
+    span:
+    - body
+    - 284
+    - 684
+  label: 治哽誤吞物諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d75
+    span:
+    - body
+    - 684
+    - 835
+  label: 治誤為火湯熱膏所傷諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d76
+    span:
+    - body
+    - 835
+    - 1009
+  label: 治熱暍諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d77
+    span:
+    - body
+    - 1009
+    - 1252
+  label: 治溺水未死諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d78
+    span:
+    - body
+    - 1252
+    - 1415
+  label: 治入井塚鬱冒諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d79
+    span:
+    - body
+    - 1415
+    - 1653
+  label: 治自經未死諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d80
+    span:
+    - body
+    - 1653
+    - 1739
+  label: 治服毒藥吞金未死諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d81
+    span:
+    - body
+    - 1739
+    - 2572
+  label: 治射公毒諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d82
+    span:
+    - body
+    - 2572
+    - 3258
+  label: 治丹疹毒腫諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d83
+    span:
+    - body
+    - 3258
+    - 3484
+  label: 治瘭疽諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d84
+    span:
+    - body
+    - 3484
+    - 3606
+  label: 治代指似瘭疽諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d85
+    span:
+    - body
+    - 3606
+    - 3661
+  label: 治風熱毒腫熱瘡諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d86
+    span:
+    - body
+    - 3661
+    - 3757
+  label: 治洪燭瘡諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d87
+    span:
+    - body
+    - 3757
+    - 3930
+  label: 治蛷蝮尿生瘡諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d88
+    span:
+    - body
+    - 3930
+    - 4022
+  label: 治釘毒瘡瘑疥癬惡瘡諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d89
+    span:
+    - body
+    - 4022
+    - 4560
+  label: 治惡核惡肉惡脈諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d90
+    span:
+    - body
+    - 4560
+    - 5086
+  label: 治氣腫氣痛諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d91
+    span:
+    - body
+    - 5086
+    - 5343
+  label: 治緩疽諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d92
+    span:
+    - body
+    - 5343
+    - 5741
+  label: 治附骨疽與賊風相似諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d93
+    span:
+    - body
+    - 5741
+    - 5815
+  label: 治䐔病似疽諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d94
+    span:
+    - body
+    - 5815
+    - 6512
+  label: 治癰癤瘻諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d95
+    span:
+    - body
+    - 6512
+    - 6926
+  label: 治乳癰妒乳生瘡諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d96
+    span:
+    - body
+    - 6926
+    - 7941
+  label: 治耳眼鼻口齒諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d97
+    span:
+    - body
+    - 7941
+    - 8196
+  label: 治癭病諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d98
+    span:
+    - body
+    - 8196
+    - 8273
+  label: 治瘰癧諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d99
+    span:
+    - body
+    - 8273
+    - 8942
+  label: 治頹脫肛痔下部諸疾眾方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d100
+    span:
+    - body
+    - 8942
+    - 9157
+  label: 治狐臭諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d101
+    span:
+    - body
+    - 9157
+    - 9276
+  label: 治手足腋下股恆濕諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d102
+    span:
+    - body
+    - 9276
+    - 9288
+  label: 治身㾦癗有氣口瘡諸方待考
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d103
+    span:
+    - body
+    - 9288
+    - 9485
+  label: 治面㾴疱瘡瘢諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d104
+    span:
+    - body
+    - 9485
+    - 9572
+  label: 治面皯䵴黑痣諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d105
+    span:
+    - body
+    - 9572
+    - 9581
+  label: 治白癜赤疵諸方待考
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d106
+    span:
+    - body
+    - 9581
+    - 10456
+  label: 治蟲獸狗馬毒諸方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed006_jc_010-d12d107
+    span:
+    - body
+    - 10456
+    - 11639
+  label: 治被壓迮墮捥折斫刺金瘡諸方
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed006_jc_011-d13.h1s1
+    span:
+    - body
+    - 0
+    - 277
+  label: 卷第十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ed006_jc_011-d13d2
+    span:
+    - body
+    - 4
+    - 277
+  label: 述用本草藥性
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed006_jc_012-d14.h1s1
+    span:
+    - body
+    - 0
+    - 3050
+  label: 卷第十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ed006_jc_012-d14d2
+    span:
+    - body
+    - 4
+    - 3050
+  label: 灸法要穴
+  type: section
+  level: 2
+hash: sha256:84bd0b80c22330665d12d12265c35c3642cc3b4f5efc6ff4d29d80e06d006090
