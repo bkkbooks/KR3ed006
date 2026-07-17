@@ -32,18 +32,18 @@ assets:
   - {seq: 12, filename: KR3ed006_012-jc.yaml, hash: 'sha256:c260f5a00971b3eb98286f0a7bd1909104bfdbb5ca11eadca5b3a742a9754029'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed006_000-jc.markers.yaml, hash: 'sha256:089ba4742dae25d5f23936208ad1b919f72397364739c6e5d29946a1fdc86a8c'}
-  - {seq: 1, role: markers, filename: assets/KR3ed006_001-jc.markers.yaml, hash: 'sha256:da34572d0cf8873321ec365baa71e7d89d1b1d0b7c0ca327bfd2e833e87cef9d'}
-  - {seq: 2, role: markers, filename: assets/KR3ed006_002-jc.markers.yaml, hash: 'sha256:1c33e969757ddff0788f7b77d882545e678adb582c89bffb3c87facebac245c7'}
-  - {seq: 3, role: markers, filename: assets/KR3ed006_003-jc.markers.yaml, hash: 'sha256:ffce9da9eb9913a81b2dd9819e62e2684f5ff38a00ac8bc1657dcf1a2875a87d'}
-  - {seq: 4, role: markers, filename: assets/KR3ed006_004-jc.markers.yaml, hash: 'sha256:a48bb0ce519bd34bf22888cff1518176498f80960334797c34aef99fc0d2f587'}
-  - {seq: 5, role: markers, filename: assets/KR3ed006_005-jc.markers.yaml, hash: 'sha256:c39e31b03d2966d84d6b4a09b94423706d3ea2d2f8d74be83c7ba3057318fda1'}
-  - {seq: 6, role: markers, filename: assets/KR3ed006_006-jc.markers.yaml, hash: 'sha256:8ab4ffc096e0c7044a6ea4f6fa378a1f2806dd9e3b1773423e3bb9980d8dde01'}
-  - {seq: 7, role: markers, filename: assets/KR3ed006_007-jc.markers.yaml, hash: 'sha256:1eb8dda8ee44575031183c7d27d2bd99aa348a3b329391272e5ccdbd95981555'}
-  - {seq: 8, role: markers, filename: assets/KR3ed006_008-jc.markers.yaml, hash: 'sha256:e7351df7e3b032c5dcbc16eb3228bfcceb9154830de21be7e1cb626d733f0f52'}
-  - {seq: 9, role: markers, filename: assets/KR3ed006_009-jc.markers.yaml, hash: 'sha256:2fc11cb52e835e5bc67f1fc37bcb4e146a0b0160cbd3117493f25ea81a573f7f'}
-  - {seq: 10, role: markers, filename: assets/KR3ed006_010-jc.markers.yaml, hash: 'sha256:31aba2f7747dbe8e1c660439b4ed9689395c3b934d5dbe29c3878b2e59474f25'}
+  - {seq: 1, role: markers, filename: assets/KR3ed006_001-jc.markers.yaml, hash: 'sha256:d78e1536c7463b2eb6cc0155ad6ab32502f536f41ae6b2c0e32430616ac914fc'}
+  - {seq: 2, role: markers, filename: assets/KR3ed006_002-jc.markers.yaml, hash: 'sha256:f7ac2ac645cd3b29da8c228f21f05c26ccd40616e93c1ca256d226aeb823bcd2'}
+  - {seq: 3, role: markers, filename: assets/KR3ed006_003-jc.markers.yaml, hash: 'sha256:44e7937ba1b06b53d2859aaff9f7b08deac1047207a8df3cc44c6dc36bd6c33b'}
+  - {seq: 4, role: markers, filename: assets/KR3ed006_004-jc.markers.yaml, hash: 'sha256:765cf92dace0f56959c6972e11fe6517b6d16db99276efd14f801f64800f554c'}
+  - {seq: 5, role: markers, filename: assets/KR3ed006_005-jc.markers.yaml, hash: 'sha256:c4a5da806b95d4da73c396d935d74df8a7a9d4e592902d8c40fc4ac0b0fdefa5'}
+  - {seq: 6, role: markers, filename: assets/KR3ed006_006-jc.markers.yaml, hash: 'sha256:1505cf45e6b370dbe16f13d75f5ac2099d9cd589b9966f824e8e288ee33c776b'}
+  - {seq: 7, role: markers, filename: assets/KR3ed006_007-jc.markers.yaml, hash: 'sha256:29d00610f9b3f77199667778320d39d6fa545744813ee9f740af410ae3ef3dcd'}
+  - {seq: 8, role: markers, filename: assets/KR3ed006_008-jc.markers.yaml, hash: 'sha256:b2e5efe128258aeae63c6feb61bca466f3eb550b4490623309d390828bda5ad3'}
+  - {seq: 9, role: markers, filename: assets/KR3ed006_009-jc.markers.yaml, hash: 'sha256:d9d6773b0d4ffe6344a54909a8a275cdf617e6697f267e84cb9429a659e96fc8'}
+  - {seq: 10, role: markers, filename: assets/KR3ed006_010-jc.markers.yaml, hash: 'sha256:218a5fa267d5326102d4e5d51be5211b34762b3d1dc2b0bcc1a4cd94fc0036b6'}
   - {seq: 11, role: markers, filename: assets/KR3ed006_011-jc.markers.yaml, hash: 'sha256:1e01afd3a86adef5abdda3107624046becba8adf6135259829a73ac11bd06850'}
-  - {seq: 12, role: markers, filename: assets/KR3ed006_012-jc.markers.yaml, hash: 'sha256:b8b569f9433ca10e922f8d0f7d08e2c2db22c47df79aeb9f301c51d81c046b85'}
+  - {seq: 12, role: markers, filename: assets/KR3ed006_012-jc.markers.yaml, hash: 'sha256:00b9f9c3319ee5379eb456c4ca20b4646697003ffa8acef3f4fd15566e63c7e1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1015,4 +1015,4 @@ table_of_contents:
   label: 灸法要穴
   type: section
   level: 2
-hash: sha256:84bd0b80c22330665d12d12265c35c3642cc3b4f5efc6ff4d29d80e06d006090
+hash: sha256:81f1f176daab9147e5666ef5ad968c3fe21ae75de24cc7ae3e692cb1e21ea0a9
