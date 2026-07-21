@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ed006_000-jc.yaml, hash: 'sha256:fb2c32cd8d52d07f77f361ac84b7e2255ff62cf07a6e76ce635f92ad9c49bf3c'}
+  - {seq: 0, filename: KR3ed006_000-jc.yaml, hash: 'sha256:0cd316cc5d3ae4d783bcc4b8a9876fce9d2e3cd363d17cdc19d976745d0c0535'}
   - {seq: 1, filename: KR3ed006_001-jc.yaml, hash: 'sha256:c9d0e333d3b76bcabd8051b316601edbaa28486792cebffa6c638f91179e8276'}
   - {seq: 2, filename: KR3ed006_002-jc.yaml, hash: 'sha256:acb4bb303fa82ac1374febf3ee12bf1a69e488821abe0ba2756895a7f82b6c11'}
   - {seq: 3, filename: KR3ed006_003-jc.yaml, hash: 'sha256:818eeb89b134fa05a7d574c9e28ddfba28f6d2cfca72c898843d0e5212aa4fd2'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 11, filename: KR3ed006_011-jc.yaml, hash: 'sha256:a81a1fe548f1cd6cc1c5e80470617968b3233da266dc57653f0ff0fefeefdcf3'}
   - {seq: 12, filename: KR3ed006_012-jc.yaml, hash: 'sha256:c260f5a00971b3eb98286f0a7bd1909104bfdbb5ca11eadca5b3a742a9754029'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed006_000-jc.markers.yaml, hash: 'sha256:089ba4742dae25d5f23936208ad1b919f72397364739c6e5d29946a1fdc86a8c'}
+  - {seq: 0, role: markers, filename: assets/KR3ed006_000-jc.markers.yaml, hash: 'sha256:d2adb0ffa49a28cc0c0cdb640a07a1da0b7e3c9a78d072166457cad34e2dadc3'}
   - {seq: 1, role: markers, filename: assets/KR3ed006_001-jc.markers.yaml, hash: 'sha256:d78e1536c7463b2eb6cc0155ad6ab32502f536f41ae6b2c0e32430616ac914fc'}
   - {seq: 2, role: markers, filename: assets/KR3ed006_002-jc.markers.yaml, hash: 'sha256:f7ac2ac645cd3b29da8c228f21f05c26ccd40616e93c1ca256d226aeb823bcd2'}
   - {seq: 3, role: markers, filename: assets/KR3ed006_003-jc.markers.yaml, hash: 'sha256:44e7937ba1b06b53d2859aaff9f7b08deac1047207a8df3cc44c6dc36bd6c33b'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed006_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 1334
   label: 序
@@ -1015,4 +1015,4 @@ table_of_contents:
   label: 灸法要穴
   type: section
   level: 2
-hash: sha256:81f1f176daab9147e5666ef5ad968c3fe21ae75de24cc7ae3e692cb1e21ea0a9
+hash: sha256:712d6401027e4a941ca04c170367e5deb23caecd85b44ef7acd7833e39fe6d79
